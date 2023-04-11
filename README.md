@@ -10,7 +10,7 @@ I took a hiatus until I started college but maintained my interest in computer p
 
 I'm currently working on a calculator and unit converting app alongside a web app to solve sudoku puzzles (and their more challenging cousin, killer sudoku).
 
-You can also find me on [LinkedIn](www.linkedin.com/in/sktylr)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/sktylr)
 <!--
 **sktylr/sktylr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
