@@ -11,9 +11,11 @@ My skills include:
 
 I'm currently learning Typescript and React and have plans to develop a financial organisation tool for personal use.
 
-I started programming aged 11 by attending an [Academy of Code](https://https://www.theacademyofcode.com/) summer camp. Here I learned [processing](https://processing.org), a Java based language that made animation and drawing to the screen easier to grasp. I continued with the Academy of Code by attending more camps and weekend classes over the next 18 months. 
+I started programming aged 11 when I attended an [Academy of Code](https://https://www.theacademyofcode.com/) summer camp. I was introduced to [processing](https://processing.org), a tool that helps beginners get a quicker grasp of programming, without the normal overheads requried in setting up a regular Java project.
 
-I took a hiatus until I started college but maintained my interest in computer programming and computers in general, so out of school I applied to the Integrated Computer Science Program in Trinity College. Here, I resurrected my github profile. This profile hosts all of my college assignments and work, which for plagiarism purposes must be kept private. When time allows, I pursue my own projects as well and seek to expand my knowledge of frameworks and languages.
+I stayed with the Academy of Code for a further 18 months before stopping due to time constraints.
+
+I am currently undertaking a Computer Science degree in Trinity College Dublin and am in my second year.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sktylr). Feel free to reach out, I'm always open to new opportunities.
 <!--
