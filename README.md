@@ -18,6 +18,17 @@ I stayed with the Academy of Code for a further 18 months before stopping due to
 I am currently undertaking a Computer Science degree in Trinity College Dublin and am in my second year.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sktylr). Feel free to reach out, I'm always open to new opportunities.
+
+My Github stats:
+
+
+  <a href="https://github.com/sktylr">
+   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sktylr&show_icons=true&theme=dark&line_height=40" alt="Sam's github stats"/>
+  </a>
+
+  <a href="https://github.com/sktylr">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sktylr&theme=dark&hide_langs_below=1" alt="Sam's most used languages"/>
+  </a>
 <!--
 **sktylr/sktylr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
