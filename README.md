@@ -11,9 +11,7 @@ My skills include:
 
 I'm currently learning Typescript and React and have plans to develop an expense tracking tool for personal use.
 
-I started programming aged 11 when I attended an [Academy of Code](https://https://www.theacademyofcode.com/) summer camp. I was introduced to [processing](https://processing.org), a tool that helps beginners get a quicker grasp of programming, without the normal overheads requried in setting up a regular Java project.
-
-I stayed with the Academy of Code for a further 18 months before stopping due to time constraints.
+I have a strong interest in server-side development, particularly in the fintech space.
 
 I am currently undertaking a Computer Science degree in Trinity College Dublin and am in my second year.
 
