@@ -9,11 +9,11 @@ My skills include:
 * Django framework
 * REST API's
 
-I'm currently learning Typescript and React and have plans to develop an expense tracking tool for personal use.
+I'm currently learning Typescript and React and am developing an expense tracking tool for personal use.
 
 I have a strong interest in server-side development, particularly in the fintech space.
 
-I am currently undertaking a Computer Science degree in Trinity College Dublin and am in my second year.
+I am currently undertaking a Computer Science degree in Trinity College Dublin and am in my third year of studying.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sktylr). Feel free to reach out, I'm always open to new opportunities.
 
