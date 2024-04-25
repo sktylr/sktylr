@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Sam and I'm a second year computer science student studying in [Trinity College Dublin](https://tcd.ie).
+My name is Sam and I'm a third year computer science student studying in [Trinity College Dublin](https://tcd.ie).
 
 My skills include:
-* Java
-* C
 * Python
+* TypeScript
+* Java
 * Django framework
 * REST API's
 
