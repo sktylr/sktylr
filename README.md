@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-My name is Sam and I'm a third year computer science student studying in [Trinity College Dublin](https://tcd.ie).
+My name is Sam and I'm currently studying for a Master's of Computer Science in [Trinity College Dublin](https://tcd.ie).
+
+- 🔭 I’m currently working on a framework for serving HTTP requests in Go: [`routeit`](https://github.com/sktylr/routeit)
+- 🌱 I’m currently learning more about distributed systems and networking
 
 My skills include:
-* Python
-* TypeScript
-* Java
-* Django framework
-* REST API's
+- Java
+- Python
+- Go
 
-I'm currently learning Typescript and React and am developing an expense tracking tool for personal use.
-
-I have a strong interest in server-side development, particularly in the fintech space.
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/sktylr). Feel free to reach out, I'm always open to new opportunities.
+You can also find me on [LinkedIn](https://www.linkedin.com/in/sktylr).
+Feel free to reach out if you have something to discuss!
 
 My Github stats:
 
